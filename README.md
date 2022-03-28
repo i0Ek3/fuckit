@@ -10,7 +10,7 @@
 
 ## 更新日志
 
-请查看 [Changelog.md](https://github.com/i0Ek3/fuckit/blob/master/README.md)。
+请查看 [Changelog.md](https://github.com/i0Ek3/fuckit/blob/master/Changelog.md)。
 
 ## 声明
 
