@@ -10,9 +10,7 @@
 
 ## 最新更新
 
-最近在国外看到有人利用 CFR 技术来消除患者相关（即本项目提到的）问题的视频，感觉很神奇。简单查了一下，国内似乎没有人在用这样的方法。感兴趣的朋友可以找找 thefacecracker - Dr. Doug Willen 相关的视频看看，这里贴下他对 CFR 的介绍。希望我们终能受益。
-
-> Cranial Facial Release (CFR) can help alleviate various issues such as headaches, sinus problems, facial pain, migraine, tinnitus, anxiety, deviated septum and even certain neurological conditions.
+请查看 [LatestNews.md](https://github.com/i0Ek3/fuckit/blob/master/LatestNews.md)。
 
 ## 犯病日志
 
