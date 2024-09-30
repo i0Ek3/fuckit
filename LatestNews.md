@@ -4,9 +4,9 @@
 
 今天去医院打了一针过敏原阻断，名字叫做**奥马珠单抗注射液**，Xolair 生产，150mg，价格 1204 元。一针差不多能保持一个月（医生说的），叫我连续打三个月。目前先打了一针，等看看情况，注射后 2 天左右生效。
 
-![](https://github.com/i0Ek3/fuckit/blob/main/media/202409-list.jpg)
+![](https://github.com/i0Ek3/fuckit/blob/master/media/202409-list.jpg)
 
-![](https://github.com/i0Ek3/fuckit/blob/main/media/202409-1204.jpg)
+![](https://github.com/i0Ek3/fuckit/blob/master/media/202409-1204.jpg)
 
 ## 20240820
 
