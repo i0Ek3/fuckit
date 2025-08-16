@@ -12,10 +12,6 @@
 
 请查看 [LatestNews.md](https://github.com/i0Ek3/fuckit/blob/master/LatestNews.md)。
 
-## 犯病日志
-
-请查看 [Changelog.md](https://github.com/i0Ek3/fuckit/blob/master/Changelog.md)。
-
 ## 声明
 
 本文是以本人情况进行撰写的，无法保证对任何人都适用，所提供的方法也不具有专业性，请大家自行斟酌。依据本文提供的方法出现任何问题，本人都无法负责，请知悉。
